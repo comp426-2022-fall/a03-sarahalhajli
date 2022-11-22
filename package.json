@@ -18,6 +18,7 @@
   "bin": {
     "roll-dice": "./bin/cli.js"
   },
+  "type": "module",
   "homepage": "https://github.com/comp426-2022-fall/a03-sarahalhajli#readme",
   "dependencies": {
     "minimist": "^1.2.7"
